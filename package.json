@@ -2,7 +2,7 @@
   "name": "sprinklercontroller",
   "version": "1.0.0",
   "description": "control the sprinks",
-  
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SirJelloSandwich/sprinklerController#readme",
   "dependencies": {
-    "express": "^4.13.4",
-    "onoff": "^1.1.0"
+    "express": ">=4.13.4",
+    "onoff": ">=1.1.0"
   }
 }
